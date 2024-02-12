@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabee</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 - 🔭 I’m currently working on [Dev Overflow](https://stack-overflow-next13-rust.vercel.app/)
 
